@@ -1,0 +1,10 @@
+URxvt.depth: 32
+!URxvt.background: rgba:1111/1111/1111/dddd
+
+URxvt.scrollstyle: plain
+
+!terminal colors
+!URxvt*foreground: white
+URxvt*cursorColor: green
+
+URxvt.scrollBar_right: true
